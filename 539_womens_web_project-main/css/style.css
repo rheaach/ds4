@@ -1,0 +1,37 @@
+body
+{
+    padding: 100px;
+
+}
+li {
+    align-items: center;
+    display: inline;
+    padding: 15px;
+    border: 1px;
+  }
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    text-align: center;
+    font-weight: bold;
+}
+h2
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: 500;
+    text-decoration-color: blueviolet;
+}
+button
+{
+    padding: 10px;
+    background-color: blanchedalmond;
+    align-items: center;
+}
+img {
+    width: 75%;
+    padding: 20px;
+    margin: 20px;
+    border: dashed blue 10px;
+    align-content: ;
+}
